@@ -11,8 +11,8 @@ You and your team will take a dataset and build an application (or website) that
 
 ## Group Assignments:
 
-| Group # | DSI Students | WDI Students | Dataset |  
-|---------|--------------|--------------|---------|
+| Group # | DSI Students | WDI Students |
+|---------|--------------|--------------|
 | 1 | _ENTER DSI STUDENTS HERE_ | Alex, Mohamed, Damira, Jaemin |
 | 2 | _ENTER DSI STUDENTS HERE_ | Kieran, Robert, Nicky, Carla, Dawa |
 | 3 | _ENTER DSI STUDENTS HERE_ | Andrew, Debika, Scott, Grace, Krystyna |  
