@@ -11,18 +11,18 @@ You and your team will take a dataset and build an application (or website) that
 
 ## Group Assignments:
 
-| Group # | DSI Students | WDI Students |
-|---------|--------------|--------------|
-| 1 | _ENTER DSI STUDENTS HERE_ | Alex, Mohamed, Damira, Jaemin |
-| 2 | _ENTER DSI STUDENTS HERE_ | Kieran, Robert, Nicky, Carla, Dawa |
-| 3 | _ENTER DSI STUDENTS HERE_ | Andrew, Debika, Scott, Grace, Krystyna |  
-| 4 | _ENTER DSI STUDENTS HERE_ | Samuel, Donald, Nico,Tenzin, Janelle |
-| 5 | _ENTER DSI STUDENTS HERE_ | Jonathan, Natty, Mike, Synclair,  Valeria |
-| 6 | _ENTER DSI STUDENTS HERE_ | Jimmy, Matt B, Skylar, Olga, Darryl | 
-| 7 | _ENTER DSI STUDENTS HERE_ | Joey, Sabrina, Aaron, Mat C , Lee |
-| 8 | _ENTER DSI STUDENTS HERE_ | Dan, Matt P, Cecil, Hadas, Paris |
-| 9 | _ENTER DSI STUDENTS HERE_ | Phil, Matt K, Ady, Pranav, Valeria |
-| 10 | _ENTER DSI STUDENTS HERE_ | William, John, Susana, Kevin, Imani |
+| Group # | DSI Students | WDI Students | Dataset |
+|---------|--------------|--------------|---------|
+| 1 | _ENTER DSI STUDENTS HERE_ | Alex, Mohamed, Damira, Jaemin | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
+| 2 | _ENTER DSI STUDENTS HERE_ | Kieran, Robert, Nicky, Carla, Dawa | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
+| 3 | _ENTER DSI STUDENTS HERE_ | Andrew, Debika, Scott, Grace, Krystyna |  [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
+| 4 | _ENTER DSI STUDENTS HERE_ | Samuel, Donald, Nico,Tenzin, Janelle | [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
+| 5 | _ENTER DSI STUDENTS HERE_ | Jonathan, Natty, Mike, Synclair | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
+| 6 | _ENTER DSI STUDENTS HERE_ | Jimmy, Matt B, Skylar, Olga, Darryl | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
+| 7 | _ENTER DSI STUDENTS HERE_ | Joey, Sabrina, Aaron, Mat C , Lee | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
+| 8 | _ENTER DSI STUDENTS HERE_ | Dan, Matt P, Cecil, Hadas, Paris | [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
+| 9 | _ENTER DSI STUDENTS HERE_ | Phil, Matt K, Ady, Pranav, Valeria | [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
+| 10 | _ENTER DSI STUDENTS HERE_ | William, John, Susana, Kevin, Imani | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
 
 
 ## Datasets:
