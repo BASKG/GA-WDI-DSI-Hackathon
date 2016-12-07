@@ -25,17 +25,6 @@ You and your team will take a dataset and build an application (or website) that
 | 10 | Joshua, JP | William, John, Susana, Kevin, Imani | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
 
 
-## Datasets:
-Once you have a group, pick a dataset from these options:
-* [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
-* [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
-* [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html)
-* [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge)
-* [Boston Housing Prices](https://archive.ics.uci.edu/ml/datasets/Housing)
-* [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response)
-
-
-
 ## Approach
 - Whiteboard an outline of what you want the final product to look like
 - Set up a Git Organization with two repos - one for a Python server and one for a web full-stack app. Agree on a git workflow to share code
