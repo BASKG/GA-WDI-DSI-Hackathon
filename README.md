@@ -13,11 +13,11 @@ You and your team will take a dataset and build an application (or website) that
 
 | Group # | DSI Students | WDI Students | Dataset |
 |---------|--------------|--------------|---------|
-| 1 | Tiana, Mike | Alex, Mohamed, Damira, Jaemin | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
+| 1 | Tiana, Mike | Alex, Mohamed, Damira, Jaemin, Joe | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
 | 2 | Maria, Peida | Kieran, Robert, Nicky, Carla, Dawa | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
 | 3 | Jesse, Betsy, Rachel | Andrew, Debika, Scott, Grace, Krystyna |  [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
 | 4 | Amish, Andrew | Samuel, Donald, Nico,Tenzin, Janelle | [AirBnB listings data](http://insideairbnb.com/get-the-data.html) OR [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
-| 5 | Max, Amer | Jonathan, Natty, Mike, Synclair | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
+| 5 | Max, Amer | Jonathan, Natty, Mike, Synclair, Nick | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
 | 6 | Debjani, Sara | Jimmy, Matt B, Skylar, Olga, Darryl | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
 | 7 | Doug, Thomas | Joey, Sabrina, Aaron, Mat C , Lee | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
 | 8 | Kristen, Sam | Dan, Matt P, Cecil, Hadas, Paris | [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
