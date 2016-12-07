@@ -13,16 +13,16 @@ You and your team will take a dataset and build an application (or website) that
 
 | Group # | DSI Students | WDI Students | Dataset |
 |---------|--------------|--------------|---------|
-| 1 | _ENTER DSI STUDENTS HERE_ | Alex, Mohamed, Damira, Jaemin | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
-| 2 | _ENTER DSI STUDENTS HERE_ | Kieran, Robert, Nicky, Carla, Dawa | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
-| 3 | _ENTER DSI STUDENTS HERE_ | Andrew, Debika, Scott, Grace, Krystyna |  [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
-| 4 | _ENTER DSI STUDENTS HERE_ | Samuel, Donald, Nico,Tenzin, Janelle | [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
-| 5 | _ENTER DSI STUDENTS HERE_ | Jonathan, Natty, Mike, Synclair | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
-| 6 | _ENTER DSI STUDENTS HERE_ | Jimmy, Matt B, Skylar, Olga, Darryl | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
-| 7 | _ENTER DSI STUDENTS HERE_ | Joey, Sabrina, Aaron, Mat C , Lee | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
-| 8 | _ENTER DSI STUDENTS HERE_ | Dan, Matt P, Cecil, Hadas, Paris | [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
-| 9 | _ENTER DSI STUDENTS HERE_ | Phil, Matt K, Ady, Pranav, Valeria | [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
-| 10 | _ENTER DSI STUDENTS HERE_ | William, John, Susana, Kevin, Imani | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
+| 1 | Tiana, Mike | Alex, Mohamed, Damira, Jaemin | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
+| 2 | Maria, Peida | Kieran, Robert, Nicky, Carla, Dawa | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
+| 3 | Jesse, Betsy, Rachel | Andrew, Debika, Scott, Grace, Krystyna |  [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
+| 4 | Amish, Andrew | Samuel, Donald, Nico,Tenzin, Janelle | [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
+| 5 | Max, Amer | Jonathan, Natty, Mike, Synclair | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
+| 6 | Debjani, Sara | Jimmy, Matt B, Skylar, Olga, Darryl | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
+| 7 | Doug, Thomas | Joey, Sabrina, Aaron, Mat C , Lee | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
+| 8 | Kristen, Sam | Dan, Matt P, Cecil, Hadas, Paris | [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
+| 9 | Jocelyn, Tim | Phil, Matt K, Ady, Pranav, Valeria | [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
+| 10 | Joshua, JP | William, John, Susana, Kevin, Imani | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
 
 
 ## Datasets:
@@ -48,7 +48,7 @@ Once you have a group, pick a dataset from these options:
 ## Tips for DSI Students
 - Start by by creating dummy outputs so your team has something to work with. For example, if you know your model's output will eventually be an array of five values, start by building a Flask app that returns an array of 5 random values to a route.
 - If your team decides to use Flask, discuss where your predictions will route and what parameters they'll need.
-- If use a predictive model, start very simple (predict random numbers) to get things working. Then, get iteratively more complex once the infrastructure is in place (engineer your features, try different models, tune hyperparameters...).
+- If using predictive model, start very simple (predict random numbers) to get things working. Then, get iteratively more complex once the infrastructure is in place (engineer your features, try different models, tune hyperparameters...).
 - Do your data cleaning, EDA, and model tuning in a Jupyter notebook. Export the fitted model as a pickled file to save on processing time.
 - Deploy on AWS!
 
