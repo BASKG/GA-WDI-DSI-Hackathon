@@ -32,10 +32,11 @@ You and your team will take a dataset and build an application (or website) that
 - Deploy!
 
 ## Tips for DSI Students
-- Start by by creating dummy outputs so your team has something to work with. For example, if you know your model's output will eventually be an array of five values, start by building a Flask app that returns an array of 5 random values to a route.
-- If your team decides to use Flask, discuss where your predictions will route and what parameters they'll need.
-- If using predictive model, start very simple (predict random numbers) to get things working. Then, get iteratively more complex once the infrastructure is in place (engineer your features, try different models, tune hyperparameters...).
+- Start by creating dummy outputs so your WDI team members have something to work with. For example, after reviewing your dataset if your model will output a json object with three key, value pairs, start by building a Flask app that returns a json object of 3 random values to a route. Building this **Minimum viable product** and passing it along to the WDIers in the early-going will be important. As an example, please review the Flask app in the my_flask_api[](./my_flask_api/) folder.
+- Only once you've built your m.v.p. and the infrastructure is in place should you get iteratively more complex (engineer your features, try different models, tune hyperparameters...)
+- Discuss with your team where your predictions will route and what parameters they'll need.
 - Do your data cleaning, EDA, and model tuning in a Jupyter notebook. Export the fitted model as a pickled file to save on processing time.
+- It is **strongly encouraged** that your output contains a visualization.
 - Deploy on AWS!
 
 ## Tips for WDI Students
