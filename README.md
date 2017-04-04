@@ -14,9 +14,9 @@ You and your team will take a dataset and build an application (or website) that
 | Group # | DSI Students | WDI Students | Dataset |
 |---------|--------------|--------------|---------|
 | 1 | Carlo, Adrian, Annamaria | Alex, Mohamed, Damira, Jaemin, Joe | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
-| 2 | Shiyang, Dex, Adam | Kieran, Robert, Nicky, Carla, Dawa | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
+| 2 | Avneet, Dex, Adam | Kieran, Robert, Nicky, Carla, Dawa | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
 | 3 | Bobby, Han, Ryan | Andrew, Debika, Scott, Grace, Krystyna |  [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
-| 4 | Aaron, Avneet | Samuel, Donald, Nico,Tenzin, Janelle | [AirBnB listings data](http://insideairbnb.com/get-the-data.html) OR [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
+| 4 | Aaron, Shiyang | Samuel, Donald, Nico,Tenzin, Janelle | [AirBnB listings data](http://insideairbnb.com/get-the-data.html) OR [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
 | 5 | Connor, Kristina, Chris | Jonathan, Natty, Mike, Synclair, Nick | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
 | 6 | Anthony, Mark, Tetyana | Jimmy, Matt B, Skylar, Olga, Darryl | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
 | 7 | Sean, Sidra | Joey, Sabrina, Aaron, Mat C , Lee | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
@@ -32,7 +32,7 @@ You and your team will take a dataset and build an application (or website) that
 - Deploy!
 
 ## Tips for DSI Students
-- Start by creating dummy outputs so your WDI team members have something to work with. For example, after reviewing your dataset if your model will output a json object with three key, value pairs, start by building a Flask app that returns a json object of 3 random values to a route. Building this **Minimum viable product** and passing it along to the WDIers in the early-going will be important. As an example, please review the Flask app in the [my_flask_api](./my_flask_api/) folder.
+- Start by creating dummy outputs so your WDI team members have something to work with. For example, after reviewing your dataset if your model will output a json object with three key, value pairs, start by building a Flask app that returns a json object of 3 random values to a route. Building this **minimum viable product** and passing it along to the WDIers in the early-going will be important. As an example, please review the Flask app in the [my_flask_api](./my_flask_api/) folder.
 - Only once you've built your m.v.p. and the infrastructure is in place should you get iteratively more complex (engineer your features, try different models, tune hyperparameters...)
 - Discuss with your team where your predictions will route and what parameters they'll need.
 - Do your data cleaning, EDA, and model tuning in a Jupyter notebook. Export the fitted model as a pickled file to save on processing time.
