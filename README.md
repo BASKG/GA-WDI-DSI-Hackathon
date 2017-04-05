@@ -13,25 +13,17 @@ You and your team will take a dataset and build an application (or website) that
 
 
 # WDI groups FIRST DRAFT 
-  group1: [ 'Deise', 'Sam', 'Anthony' ],
-  group2: [ 'Geny', 'Brian', 'Kaitlyn'],
-  group3: [ 'Amanda', 'Brett' ],
-  group4: [ 'Caroline', 'Crae' , 'Sabrina' ],
-  group5: [ 'Samantha', 'Paul', 'Joel' ],
-  group6: [ 'Adrian', 'Rob', 'Jackie' ],
-  group7: [ 'Jamal', 'Jason', 'Ryan'],
-  group8: [ 'Bilal', 'Axel', 'Tunde'] }
 
 | Group # | DSI Students | WDI Students | Dataset |
 |---------|--------------|--------------|---------|
-| 1 | Carlo, Adrian, Annamaria | | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
-| 2 | Avneet, Dex, Adam | | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
-| 3 | Bobby, Han, Ryan | |  [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
-| 4 | Aaron, Shiyang | | [AirBnB listings data](http://insideairbnb.com/get-the-data.html) OR [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
-| 5 | Connor, Kristina, Chris | | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
-| 6 | Anthony, Mark, Tetyana | | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
-| 7 | Sean, Sidra | | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
-| 8 | Thierry, Schmidt | | [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
+| 1 | Carlo, Adrian, Annamaria | 'Deise', 'Sam', 'Anthony' | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
+| 2 | Avneet, Dex, Adam |'Jamal', 'Jason', 'Ryan' | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
+| 3 | Bobby, Han, Ryan | 'Bilal', 'Axel', 'Tunde' |  [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
+| 4 | Aaron, Shiyang | 'Geny', 'Brian', 'Kaitlyn' | [AirBnB listings data](http://insideairbnb.com/get-the-data.html) OR [AirBnB's user session data](http://databits.io/challenges/airbnb-user-pathways-challenge) |
+| 5 | Connor, Kristina, Chris |'Amanda', 'Brett' | [Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response) |
+| 6 | Anthony, Mark, Tetyana | 'Adrian', 'Rob', 'Jackie' | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
+| 7 | Sean, Sidra |'Caroline', 'Crae' , 'Sabrina'  | [Taxi Trips in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) |
+| 8 | Thierry, Schmidt | 'Samantha', 'Paul', 'Joel' | [MTA's subway turnstile data](http://web.mta.info/developers/turnstile.html) |
 
 ## Approach
 - Whiteboard an outline of what you want the final product to look like
@@ -52,8 +44,8 @@ You and your team will take a dataset and build an application (or website) that
 
 ## Tips for WDI Students
 - Split up the workflow.
-- Make sure you have Python and dependencies installed - you should be able to run a Python Flask server locally and make calls to it
+- Make sure you have Python and dependencies installed - you should be able to run a Python Flask server locally and make calls to it.  
 - Make sure your server and the Python server are running on different ports! Both need to be open locally at the same time for testing.
-- Use graphing libraries! Look up Chart.js (use a CDN to require it directly into your HTML) or React-D3 if you're adventurous.
+- Use graphing libraries! Look up Chart.js (use a CDN to require it directly into your HTML).  We haven't taught you this explicitly, but it's fairly simple and they have loads of examples.  Work with your DSI compadres to determine what type of graph fits their data the best.
 - Build something that sends requests to the Python server quickly! Don't worry that the Python server is returning no data or dummy data - get it ready for when the Python route is complete.
 - Deploy on Heroku! How does the connection to the Python server (on AWS) change in deployment? Can you just treat it like an external API?
