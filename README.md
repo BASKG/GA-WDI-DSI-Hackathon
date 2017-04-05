@@ -11,6 +11,17 @@ You and your team will take a dataset and build an application (or website) that
 
 ## Group Assignments:
 
+
+# WDI groups FIRST DRAFT 
+  group1: [ 'Deise', 'Sam', 'Anthony' ],
+  group2: [ 'Geny', 'Brian', 'Kaitlyn'],
+  group3: [ 'Amanda', 'Brett' ],
+  group4: [ 'Caroline', 'Crae' , 'Sabrina' ],
+  group5: [ 'Samantha', 'Paul', 'Joel' ],
+  group6: [ 'Adrian', 'Rob', 'Jackie' ],
+  group7: [ 'Jamal', 'Jason', 'Ryan'],
+  group8: [ 'Bilal', 'Axel', 'Tunde'] }
+
 | Group # | DSI Students | WDI Students | Dataset |
 |---------|--------------|--------------|---------|
 | 1 | Carlo, Adrian, Annamaria | | [Data to forecast weekly sales at Wal-Mart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) |
