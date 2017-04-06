@@ -28,7 +28,7 @@ You and your team will take a dataset and build an application (or website) that
 ## Approach
 - Whiteboard an outline of what you want the final product to look like
 - Set up a Git Organization with two repos - one for a Python server and one for a web full-stack app. Agree on a git workflow to share code
-- Decide on the tools you want to use. For Python, we recommend Flask. For Web, you've been given several server and front-end technologies, make a choice based on what your group is comfortable with.
+- Decide on the tools you want to use. For Python, we recommend Flask. For Web, express.
 - Double check package installation. If you need any of the following, make sure they're installed: Node, Anaconda, Flask
 - Build out something quick that can connect between the two apps! Start testing locally!
 - Build out your MVP!
